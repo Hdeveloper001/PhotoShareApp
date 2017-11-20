@@ -1,0 +1,6 @@
+framework module Pods_ShareApp {
+  umbrella header "Pods-ShareApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
